@@ -10,6 +10,11 @@ canvas {
   margin: auto;
 }
 
+#game-window {
+  border: 1px solid black;
+  display: block;
+  margin: 0 auto;
+} 
 .container {
   display: flex;
   flex-direction: column;
